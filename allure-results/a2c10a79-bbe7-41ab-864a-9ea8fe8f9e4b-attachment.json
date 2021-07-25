@@ -1,0 +1,11 @@
+{
+  "cat": {
+    "id": 102524,
+    "name": "Гаргантюа",
+    "description": null,
+    "tags": null,
+    "gender": "male",
+    "likes": 0,
+    "dislikes": 6
+  }
+}

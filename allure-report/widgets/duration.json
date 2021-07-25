@@ -1,0 +1,31 @@
+[ {
+  "uid" : "fca0e5d4b31c702",
+  "name" : "Проверка лайков",
+  "time" : {
+    "start" : 1627229333027,
+    "stop" : 1627229335538,
+    "duration" : 2511
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64dd476758d8a7ea",
+  "name" : "Проверка дизлайков",
+  "time" : {
+    "start" : 1627229336836,
+    "stop" : 1627229339446,
+    "duration" : 2610
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48112ebf3a6183ca",
+  "name" : "Удаление случайного кота",
+  "time" : {
+    "start" : 1627229325323,
+    "stop" : 1627229326700,
+    "duration" : 1377
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
